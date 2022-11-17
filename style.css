@@ -38,10 +38,6 @@ body{
     
 }
 
-.heading-info h1{
-    font-size: 65px;
-    width: auto;
-}
 
 .heading-info p{
     font-size:30px;
@@ -69,4 +65,5 @@ body{
  padding: 20px 20px;
  font-weight: 600;
 }
+
 
